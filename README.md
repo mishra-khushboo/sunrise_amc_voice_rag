@@ -155,6 +155,11 @@ sunrise_amc_voice_rag/
 ```
 
 ---
+## Demo (Terminal Output)
+
+Below is a sample execution of the system:
+
+![Terminal Output](assets/terminal_ss.png)
 
 ## Tech Stack
 
