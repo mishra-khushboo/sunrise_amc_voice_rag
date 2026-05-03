@@ -1,0 +1,9 @@
+faster-whisper==1.0.3
+pymupdf==1.24.5
+sentence-transformers==3.0.1
+chromadb==0.5.3
+ollama==0.2.1
+tqdm==4.66.4
+numpy==1.26.4
+rich==13.7.1
+python-dotenv==1.0.1

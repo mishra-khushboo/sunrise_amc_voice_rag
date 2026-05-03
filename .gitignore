@@ -1,0 +1,11 @@
+chroma_db/
+*.bin
+*.gguf
+*.onnx
+__pycache__/
+*.pyc
+.env
+output/
+data/
+venv/
+*.db
